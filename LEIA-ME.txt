@@ -1,0 +1,8 @@
+PULSEN GO — BLACK NOVEMBER
+
+Site estático: index.html com imagens, CSS e JavaScript incorporados.
+
+Na Vercel: use Framework Preset = Other. Build Command e Install Command vazios. Output Directory = .
+Extraia este ZIP e publique a pasta como projeto estático. Não use a configuração Next.js.
+
+Os três planos estão conectados aos checkouts promocionais fornecidos. O Google Tag Manager existente foi preservado.
